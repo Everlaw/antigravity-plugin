@@ -1,0 +1,19 @@
+{
+  "name": "everlaw",
+  "displayName": "Everlaw",
+  "description": "Search and analyze your Everlaw ediscovery projects from Google Antigravity — searches, documents, and productions, with your own Everlaw permissions.",
+  "version": "0.1.0",
+  "logo": "assets/logo.svg",
+  "author": {
+    "name": "Everlaw",
+    "url": "https://www.everlaw.com"
+  },
+  "homepage": "https://support.everlaw.com/hc/en-us/articles/49986656959771-Everlaw-MCP-Server",
+  "repository": "https://github.com/Everlaw/antigravity-plugin",
+  "keywords": ["ediscovery", "legal", "litigation", "mcp"],
+  "suggestedPrompts": [
+    "Search my Everlaw project for emails about the merger",
+    "Summarize the documents in the latest production",
+    "What metadata fields exist on this project?"
+  ]
+}

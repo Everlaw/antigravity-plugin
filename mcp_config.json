@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "everlaw-mcp": {
+      "serverUrl": "https://api.everlaw.com/v1/mcp",
+      "oauth": {
+        "clientId": "antigravity"
+      }
+    }
+  }
+}
